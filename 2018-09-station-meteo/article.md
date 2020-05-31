@@ -1,5 +1,7 @@
 # Créer sa station météo à l’aide du Raspberry Pi et de son écran 3.5’’
 
+[![](images/BY-NC-ND.png)](https://creativecommons.org/licenses/by-nc-nd/2.0/fr/legalcode)
+
 _Sébastien Colas_
 
 De nombreux projets vous permettent aujourd’hui de transformer votre Raspberry Pi en station météo. Dans ce tutoriel, nous allons voir que développer sa propre station météo from scratch n’est pas si compliqué.  

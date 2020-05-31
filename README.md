@@ -1,5 +1,8 @@
 # Articles Linux Pratique
 
+Mes articles Linux Pratique sont désormais disponible sur GitHub.
+Il sont aussi disponible sur le site des [Edition Diamonds](https://connect.ed-diamond.com/auteur/Colas-Sebastien).
+
 - Auto-héberger son agenda avec Baïkal
 - Retoucher vos photographies avec GIMP avant leur publication sur Internet
 - Créer vos feuilles de tournoi avec jQuery Bracket
