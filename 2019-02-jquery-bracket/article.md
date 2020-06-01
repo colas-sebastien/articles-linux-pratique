@@ -88,7 +88,7 @@ Voici les explications des lignes les plus importantes :
 
 Tout d’abord écrivons un fichier d’exemple pour notre tournoi `js/resultats.json`:
 
-``` json
+``` javascript
 01: {
 02:   "teams":[
 03:       [ "Arnaud",   "Sebastien" ],
